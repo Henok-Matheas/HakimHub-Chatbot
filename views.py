@@ -10,20 +10,23 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 def index(is_new_chat):
     is_new_chat = is_new_chat == 'true'
     data = request.json
-    response = {''}
+    response = {
+        "data" : None,
+        "error" : None
+    }
     statusCode = 404
     try:
-        address = request.headers.get('address')
+        address = request.headers['address']
         conversation = load_chat(address, is_new_chat)
         message = data['message']
         output = conversation.predict(input=message)
         logging.info(output)
-        response = {
-        'data': json.loads(output)}
+        response['data'] = json.loads(output)
         statusCode = 200
-    except Exception as e:
-        logging.error(e)
-        response = {
-        'message': f"{e}"}
-        statusCode = 400
+    except Exception as error:
+        logging.error(error)
+        response['error'] = {
+        'message': f"{error}"
+        }
+        statusCode = 404
     return jsonify(response), statusCode
