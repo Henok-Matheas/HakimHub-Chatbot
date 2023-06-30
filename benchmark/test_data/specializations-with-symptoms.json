@@ -1,0 +1,1058 @@
+[
+    {
+        "specialization": "Cardiologist",
+        "symptoms": [
+            [
+                "Chest pain (angina).",
+                "Shortness of breath.",
+                "Fatigue.",
+                "Heart attack."
+            ],
+            [
+                "Blue lips and skin (cyanosis)",
+                "Chest pressure or pain",
+                "Dizziness or fainting spells (syncope)",
+                "Fast pulse or pounding heartbeat (palpitations)",
+                "Fatigue",
+                "Shortness of breath (dyspnea), initially while exercising and eventually while at rest",
+                "Swelling (edema) in the ankles, legs and eventually the belly area (abdomen)"
+            ],
+            [
+                "Low-density lipoprotein (LDL).",
+                "High-density lipoprotein (HDL)."
+            ],
+            [
+                "Burning",
+                "Fullness",
+                "Pressure",
+                "Squeezing"
+            ],
+            [
+                "Sudden collapse.",
+                "No pulse.",
+                "No breathing.",
+                "Loss of consciousness."
+            ],
+            [
+                "Shortness of breath with activity or when lying down.",
+                "Fatigue and weakness.",
+                "Swelling in the legs, ankles and feet.",
+                "Rapid or irregular heartbeat.",
+                "Reduced ability to exercise.",
+                "Wheezing.",
+                "A cough that doesn't go away or a cough that brings up white or pink mucus with spots of blood.",
+                "Swelling of the belly area.",
+                "Very rapid weight gain from fluid buildup.",
+                "Nausea and lack of appetite.",
+                "Difficulty concentrating or decreased alertness.",
+                "Chest pain if heart failure is caused by a heart attack."
+            ],
+            [
+                "Chest pain.",
+                "Shortness of breath."
+            ],
+            [
+                "Chest pain",
+                "A rapid heartbeat or fluttery feeling in the chest",
+                "Pain in the arms, shoulders, back or jaw",
+                "Shortness of breath",
+                "Sweating",
+                "Unusual, extreme tiredness",
+                "Nausea",
+                "Dizziness"
+            ],
+            [
+                "Pain",
+                "Swelling",
+                "Redness",
+                "Warmth"
+            ],
+            [
+                "Diarrhea, which is often bloody",
+                "Abdominal pain, cramping or bloating",
+                "Vomiting",
+                "Fever"
+            ],
+            [
+                "Shortness of breath.",
+                "Chest pain.",
+                "Fainting."
+            ],
+            [
+                "Headache.",
+                "Confusion or changes in speech.",
+                "Chest pain.",
+                "Shortness of breath and nausea.",
+                "Weakness.",
+                "Burning pain in the hands or feet."
+            ],
+            [
+                "Unexplained and excessive bleeding from cuts or injuries, or after surgery or dental work",
+                "Many large or deep bruises",
+                "Unusual bleeding after vaccinations",
+                "Pain, swelling or tightness in your joints",
+                "Blood in your urine or stool",
+                "Nosebleeds without a known cause",
+                "In infants, unexplained irritability"
+            ],
+            [
+                "Severe pain within a few days after a tooth extraction",
+                "Partial or total loss of the blood clot at the tooth extraction site, which you may notice as an empty-looking (dry) socket",
+                "Visible bone in the socket",
+                "Pain that radiates from the socket to your ear, eye, temple or neck on the same side of your face as the extraction",
+                "Bad breath or a foul odor coming from your mouth",
+                "Unpleasant taste in your mouth"
+            ]
+        ]
+    },
+    {
+        "specialization": "Internist",
+        "symptoms": [
+            [
+                "Whooshing sound (heart murmur) when a doctor is listening to the heart with a stethoscope",
+                "Chest pain",
+                "Abdominal swelling (more common with advanced tricuspid regurgitation)",
+                "Fatigue",
+                "Shortness of breath, particularly when active or lying down",
+                "Swelling of your ankles and feet",
+                "Dizziness",
+                "Fainting",
+                "Irregular heartbeat"
+            ],
+            [
+                "Chest pain, chest tightness, chest pressure and chest discomfort (angina)",
+                "Shortness of breath",
+                "Pain in the neck, jaw, throat, upper belly area or back",
+                "Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in those body areas are narrowed"
+            ],
+            [
+                "Irregular heart rhythms (arrhythmias)",
+                "Blue skin, lips and fingernails (cyanosis)",
+                "Shortness of breath",
+                "Feeling tired very quickly with activity",
+                "Swelling of body tissue or organs (edema)"
+            ],
+            [
+                "Shortness of breath with activity or when lying down.",
+                "Fatigue and weakness.",
+                "Swelling in the legs, ankles and feet.",
+                "Rapid or irregular heartbeat.",
+                "Reduced ability to exercise.",
+                "Wheezing.",
+                "A cough that doesn't go away or a cough that brings up white or pink mucus with spots of blood.",
+                "Swelling of the belly area.",
+                "Very rapid weight gain from fluid buildup.",
+                "Nausea and lack of appetite.",
+                "Difficulty concentrating or decreased alertness.",
+                "Chest pain if heart failure is caused by a heart attack."
+            ],
+            [
+                "Whooshing or swishing heart sound (heart murmur)",
+                "Chest pain or tightness",
+                "Dizziness",
+                "Fainting",
+                "Fatigue after activity or having less ability to be active",
+                "Irregular heartbeat",
+                "Shortness of breath, particularly during vigorous activity or when lying down",
+                "Not eating enough (mainly in children with aortic valve stenosis)",
+                "Not gaining enough weight (mainly in children with aortic valve stenosis)"
+            ],
+            [
+                "Fatigue",
+                "Irregular heart sound (heart murmur)",
+                "Irregular heartbeat",
+                "Shortness of breath"
+            ],
+            [
+                "Chest pain (angina).",
+                "Shortness of breath.",
+                "Fatigue.",
+                "Heart attack."
+            ],
+            [
+                "Breathlessness with activity or even at rest",
+                "Swelling of the legs, ankles and feet",
+                "Bloating of the abdomen due to fluid buildup",
+                "Cough while lying down",
+                "Difficulty lying flat to sleep",
+                "Fatigue",
+                "Heartbeats that feel rapid, pounding or fluttering",
+                "Chest discomfort or pressure",
+                "Dizziness, lightheadedness and fainting"
+            ],
+            [
+                "Blue lips and skin (cyanosis)",
+                "Chest pressure or pain",
+                "Dizziness or fainting spells (syncope)",
+                "Fast pulse or pounding heartbeat (palpitations)",
+                "Fatigue",
+                "Shortness of breath (dyspnea), initially while exercising and eventually while at rest",
+                "Swelling (edema) in the ankles, legs and eventually the belly area (abdomen)"
+            ],
+            [
+                "Feeling more thirsty than usual.",
+                "Urinating often.",
+                "Losing weight without trying.",
+                "Presence of ketones in the urine. Ketones are a byproduct of the breakdown of muscle and fat that happens when there's not enough available insulin.",
+                "Feeling tired and weak.",
+                "Feeling irritable or having other mood changes.",
+                "Having blurry vision.",
+                "Having slow-healing sores.",
+                "Getting a lot of infections, such as gum, skin and vaginal infections."
+            ],
+            [
+                "Increased thirst.",
+                "Frequent urination.",
+                "Increased hunger.",
+                "Unintended weight loss.",
+                "Fatigue.",
+                "Blurred vision.",
+                "Slow-healing sores.",
+                "Frequent infections.",
+                "Numbness or tingling in the hands or feet.",
+                "Areas of darkened skin, usually in the armpits and neck."
+            ],
+            [
+                "Increased thirst",
+                "Frequent urination, possibly bed-wetting in a toilet-trained child",
+                "Extreme hunger",
+                "Unintentional weight loss",
+                "Fatigue",
+                "Irritability or behavior changes",
+                "Fruity-smelling breath"
+            ],
+            [
+                "Feeling more thirsty than usual",
+                "Urinating a lot",
+                "Bed-wetting in children who have never wet the bed during the night",
+                "Feeling very hungry",
+                "Losing weight without trying",
+                "Feeling irritable or having other mood changes",
+                "Feeling tired and weak",
+                "Having blurry vision"
+            ],
+            [
+                "Being very thirsty, often with a preference for cold water.",
+                "Making large amounts of pale urine.",
+                "Getting up to urinate and drink water often during the night."
+            ],
+            [
+                "Worsening blood pressure control",
+                "Protein in the urine",
+                "Swelling of feet, ankles, hands or eyes",
+                "Increased need to urinate",
+                "Reduced need for insulin or diabetes medicine",
+                "Confusion or difficulty concentrating",
+                "Shortness of breath",
+                "Loss of appetite",
+                "Nausea and vomiting",
+                "Persistent itching",
+                "Fatigue"
+            ],
+            [
+                "Diet.",
+                "Lack of exercise.",
+                "Family factors.",
+                "Psychological factors.",
+                "Socioeconomic factors.",
+                "Certain medications."
+            ],
+            [
+                "Unhealthy diet.",
+                "Liquid calories.",
+                "Inactivity."
+            ],
+            [
+                "Shortness of breath at rest or aggravated by exertion",
+                "Dry cough"
+            ],
+            [
+                "Shortness of breath, especially during physical activities",
+                "Wheezing",
+                "Chest tightness",
+                "A chronic cough that may produce mucus (sputum) that may be clear, white, yellow or greenish",
+                "Frequent respiratory infections",
+                "Lack of energy",
+                "Unintended weight loss (in later stages)",
+                "Swelling in ankles, feet or legs"
+            ],
+            [
+                "Shortness of breath, especially when sitting or standing",
+                "Clubbing of the fingers, in which the fingertips spread out and become rounder than normal",
+                "Broken blood vessels under the skin (spider angioma)",
+                "Bluish tinge of the lips and skin (cyanosis)"
+            ],
+            [
+                "Fatigue",
+                "Swollen lymph nodes",
+                "Weight loss",
+                "Pain and swelling in joints, such as the ankles"
+            ],
+            [
+                "You're so short of breath, you can't climb stairs",
+                "Your lips or fingernails turn blue or gray with exertion",
+                "You're not mentally alert"
+            ]
+        ]
+    },
+    {
+        "specialization": "Pediatrician",
+        "symptoms": [
+            [
+                "Developmental delays, including no crawling or babbling at 6 to 12 months",
+                "Intellectual disability",
+                "No speech or minimal speech",
+                "Difficulty walking, moving or balancing well",
+                "Frequent smiling and laughter",
+                "Happy, excitable personality",
+                "Sucking or feeding difficulty",
+                "Trouble going to sleep and staying asleep"
+            ],
+            [
+                "Severe and steady pain",
+                "Pain that comes and goes (intermittent)",
+                "Dull aching",
+                "Sharp pains or cramping",
+                "Pressure or heaviness deep within your pelvis"
+            ],
+            [
+                "Nausea",
+                "Vomiting",
+                "Loss of appetite",
+                "Fatigue and weakness",
+                "Sleep problems",
+                "Urinating more or less",
+                "Decreased mental sharpness",
+                "Muscle cramps",
+                "Swelling of feet and ankles",
+                "Dry, itchy skin",
+                "High blood pressure (hypertension) that's difficult to control",
+                "Shortness of breath, if fluid builds up in the lungs",
+                "Chest pain, if fluid builds up around the lining of the heart"
+            ],
+            [
+                "Extreme exhaustion after physical or mental exercise.",
+                "Problems with memory or thinking skills.",
+                "Dizziness that worsens with moving from lying down or sitting to standing.",
+                "Muscle or joint pain.",
+                "Unrefreshing sleep."
+            ],
+            [
+                "Shortness of breath, especially during physical activities",
+                "Wheezing",
+                "Chest tightness",
+                "A chronic cough that may produce mucus (sputum) that may be clear, white, yellow or greenish",
+                "Frequent respiratory infections",
+                "Lack of energy",
+                "Unintended weight loss (in later stages)",
+                "Swelling in ankles, feet or legs"
+            ],
+            [
+                "Fever.",
+                "Chest pain when inhaling or exhaling.",
+                "Swollen and sore lymph glands.",
+                "An ongoing runny nose.",
+                "Skin irritation that may include a rash, swelling or redness.",
+                "Swelling and redness in the mouth.",
+                "Gastrointestinal problems that may include:\n    \nVomiting.\nDiarrhea.\nStomach pain.\nBloody stool.\nA painful pocket of pus near the anus.\n\n",
+                "Vomiting.",
+                "Diarrhea.",
+                "Stomach pain.",
+                "Bloody stool.",
+                "A painful pocket of pus near the anus."
+            ],
+            [
+                "Extreme fatigue",
+                "Weight loss and loss of appetite",
+                "Areas of darkened skin",
+                "Low blood pressure, even fainting",
+                "Salt craving",
+                "Low blood sugar, also called hypoglycemia",
+                "Nausea, diarrhea or vomiting",
+                "Abdominal pain",
+                "Muscle and joint pain",
+                "Irritability",
+                "Depression",
+                "Body hair loss or sexual issues in some people"
+            ],
+            [
+                "Regular dizzy spells.",
+                "Hearing loss.",
+                "Ringing in the ear.",
+                "Feeling of fullness in the ear."
+            ],
+            [
+                "Predominantly inattentive.",
+                "Predominantly hyperactive/impulsive.",
+                "Combined."
+            ],
+            [
+                "Impulsiveness",
+                "Disorganization and problems prioritizing",
+                "Poor time management skills",
+                "Problems focusing on a task",
+                "Trouble multitasking",
+                "Excessive activity or restlessness",
+                "Poor planning",
+                "Low frustration tolerance",
+                "Frequent mood swings",
+                "Problems following through and completing tasks",
+                "Hot temper",
+                "Trouble coping with stress"
+            ],
+            [
+                "Wheezing, sometimes just at night",
+                "Coughing",
+                "Shortness of breath",
+                "Chest tightness"
+            ],
+            [
+                "Shortness of breath",
+                "Chest tightness or pain",
+                "Wheezing when exhaling, which is a common sign of asthma in children",
+                "Trouble sleeping caused by shortness of breath, coughing or wheezing",
+                "Coughing or wheezing attacks that are worsened by a respiratory virus, such as a cold or the flu"
+            ],
+            [
+                "Severe shortness of breath, chest tightness or pain, and coughing or wheezing",
+                "Low peak expiratory flow (PEF) readings, if you use a peak flow meter",
+                "Symptoms that fail to respond to use of a quick-acting (rescue) inhaler"
+            ],
+            [
+                "A runny or stuffy nose",
+                "A feeling of liquid running down the back of your throat (postnasal drip)",
+                "Frequent throat clearing and sore throat",
+                "Hoarseness",
+                "Wheezing and shortness of breath",
+                "Heartburn or a sour taste in your mouth",
+                "In rare cases, coughing up blood"
+            ],
+            [
+                "Painful muscle spasms and stiff, immovable muscles (muscle rigidity) in your jaw",
+                "Tension of muscles around your lips, sometimes producing a persistent grin",
+                "Painful spasms and rigidity in your neck muscles",
+                "Difficulty swallowing",
+                "Rigid abdominal muscles"
+            ],
+            [
+                "Small, flesh-colored, brown or pink swellings in your genital area",
+                "A cauliflower-like shape caused by several warts close together",
+                "Itching or discomfort in your genital area",
+                "Bleeding with intercourse"
+            ],
+            [
+                "Fever",
+                "Muscle aches",
+                "Headache",
+                "Severe fatigue",
+                "Severe back pain",
+                "Vomiting, sometimes"
+            ],
+            [
+                "Unusual tiredness and weakness",
+                "Sudden nausea and vomiting and diarrhea",
+                "Abdominal pain or discomfort, especially on the upper right side beneath your lower ribs, which is over your liver",
+                "Clay- or gray-colored stool",
+                "Loss of appetite",
+                "Low-grade fever",
+                "Dark urine",
+                "Joint pain",
+                "Yellowing of the skin and the whites of your eyes (jaundice)",
+                "Intense itching"
+            ],
+            [
+                "Pain or tenderness",
+                "Redness or bruising",
+                "Limited motion",
+                "Muscle spasms",
+                "Swelling",
+                "Muscle weakness"
+            ],
+            [
+                "1st-degree burn.",
+                "2nd-degree burn.",
+                "3rd-degree burn."
+            ]
+        ]
+    },
+    {
+        "specialization": "General Practitioner",
+        "symptoms": [
+            [
+                "Redness in one or both eyes.",
+                "Itchiness in one or both eyes.",
+                "A gritty feeling in one or both eyes.",
+                "A discharge in one or both eyes that forms a crust during the night that may prevent your eye or eyes from opening in the morning.",
+                "Tearing.",
+                "Sensitivity to light, called photophobia."
+            ]
+        ]
+    },
+    {
+        "specialization": "Hematologist",
+        "symptoms": [
+            [
+                "Fever or chills",
+                "Persistent fatigue, weakness",
+                "Frequent or severe infections",
+                "Losing weight without trying",
+                "Swollen lymph nodes, enlarged liver or spleen",
+                "Easy bleeding or bruising",
+                "Recurrent nosebleeds",
+                "Tiny red spots in your skin (petechiae)",
+                "Excessive sweating, especially at night",
+                "Bone pain or tenderness"
+            ],
+            [
+                "Tiredness.",
+                "Weakness.",
+                "Shortness of breath.",
+                "Pale or yellowish skin, which might be more obvious on white skin than on Black or brown skin.",
+                "Irregular heartbeat.",
+                "Dizziness or lightheadedness.",
+                "Chest pain.",
+                "Cold hands and feet.",
+                "Headaches."
+            ],
+            [
+                "Nosebleeds, sometimes on a daily basis and often starting in childhood",
+                "Lacy red vessels or tiny red spots, particularly on the lips, face, fingertips, tongue and inside surfaces of the mouth",
+                "Iron deficiency anemia",
+                "Shortness of breath",
+                "Headaches",
+                "Seizures"
+            ],
+            [
+                "Abdominal complaints.",
+                "Skeletal abnormalities.",
+                "Blood disorders."
+            ],
+            [
+                "Unexplained and excessive bleeding from cuts or injuries, or after surgery or dental work",
+                "Many large or deep bruises",
+                "Unusual bleeding after vaccinations",
+                "Pain, swelling or tightness in your joints",
+                "Blood in your urine or stool",
+                "Nosebleeds without a known cause",
+                "In infants, unexplained irritability"
+            ]
+        ]
+    },
+    {
+        "specialization": "Gastroenterologist",
+        "symptoms": [
+            [
+                "Abdominal pain, cramping or bloating that is related to passing a bowel movement",
+                "Changes in appearance of bowel movement",
+                "Changes in how often you are having a bowel movement"
+            ],
+            [
+                "Abdominal pain, cramping or bloating that is related to passing a bowel movement",
+                "Changes in appearance of bowel movement",
+                "Changes in how often you are having a bowel movement"
+            ],
+            [
+                "Diarrhea",
+                "Fatigue",
+                "Abdominal pain and cramping",
+                "Blood in your stool",
+                "Reduced appetite",
+                "Unintended weight loss"
+            ],
+            [
+                "Diarrhea, often with blood or pus",
+                "Rectal bleeding \u2014 passing small amount of blood with stool",
+                "Abdominal pain and cramping",
+                "Rectal pain",
+                "Urgency to defecate",
+                "Inability to defecate despite urgency",
+                "Weight loss",
+                "Fatigue",
+                "Fever",
+                "In children, failure to grow"
+            ],
+            [
+                "Diarrhea",
+                "Fatigue",
+                "Weight loss",
+                "Bloating and gas",
+                "Abdominal pain",
+                "Nausea and vomiting",
+                "Constipation"
+            ],
+            [
+                "Tingling or itching in the mouth",
+                "Hives, itching or eczema",
+                "Swelling of the lips, face, tongue and throat or other parts of the body",
+                "Wheezing, nasal congestion or trouble breathing",
+                "Abdominal pain, diarrhea, nausea or vomiting",
+                "Dizziness, lightheadedness or fainting"
+            ],
+            [
+                "Hives",
+                "Itchy, irritated skin",
+                "Nasal stuffiness (congestion)",
+                "Swelling of the lips, face, tongue and throat, or other parts of the body",
+                "Wheezing or trouble breathing",
+                "Coughing and choking or a tight feeling in the throat",
+                "Belly (abdominal) pain, diarrhea, nausea or vomiting",
+                "Dizziness, lightheadedness or fainting"
+            ],
+            [
+                "Extreme exhaustion after physical or mental exercise.",
+                "Problems with memory or thinking skills.",
+                "Dizziness that worsens with moving from lying down or sitting to standing.",
+                "Muscle or joint pain.",
+                "Unrefreshing sleep."
+            ],
+            [
+                "Burning stomach pain",
+                "Feeling of fullness, bloating or belching",
+                "Intolerance to fatty foods",
+                "Heartburn",
+                "Nausea"
+            ],
+            [
+                "Stomach pain.",
+                "Diarrhea.",
+                "Burning, aching or discomfort in your upper abdomen.",
+                "Acid reflux and heartburn.",
+                "Burping.",
+                "Nausea and vomiting.",
+                "Bleeding in your digestive tract.",
+                "Losing weight without trying.",
+                "Loss of appetite."
+            ],
+            [
+                "Pain, which may be constant and persist for several days. The lower left side of the abdomen is the usual site of the pain. Sometimes, however, the right side of the abdomen is more painful, especially in people of Asian descent.",
+                "Nausea and vomiting.",
+                "Fever.",
+                "Abdominal tenderness.",
+                "Constipation or, less commonly, diarrhea."
+            ],
+            [
+                "Sudden pain that begins on the right side of the lower abdomen",
+                "Sudden pain that begins around your navel and often shifts to your lower right abdomen",
+                "Pain that worsens if you cough, walk or make other jarring movements",
+                "Nausea and vomiting",
+                "Loss of appetite",
+                "Low-grade fever that may worsen as the illness progresses",
+                "Constipation or diarrhea",
+                "Abdominal bloating",
+                "Flatulence"
+            ]
+        ]
+    },
+    {
+        "specialization": "Neurologist & Psychiatrist",
+        "symptoms": [
+            [
+                "Recurrent, unwanted distressing memories of the traumatic event",
+                "Reliving the traumatic event as if it were happening again (flashbacks)",
+                "Upsetting dreams or nightmares about the traumatic event",
+                "Severe emotional distress or physical reactions to something that reminds you of the traumatic event"
+            ],
+            [
+                "Repeat statements and questions over and over.",
+                "Forget conversations, appointments or events.",
+                "Misplace items, often putting them in places that don't make sense.",
+                "Get lost in places they used to know well.",
+                "Eventually forget the names of family members and everyday objects.",
+                "Have trouble finding the right words for objects, expressing thoughts or taking part in conversations."
+            ],
+            [
+                "Reading, spelling or math.",
+                "Driving.",
+                "Getting dressed.",
+                "Telling the difference between objects that are moving and those that are still.",
+                "Judging how far away objects are.",
+                "Using everyday objects or tools.",
+                "Identifying left from right."
+            ],
+            [
+                "Trouble walking or doing usual daily activities.",
+                "Tripping and falling.",
+                "Weakness in the legs, feet or ankles.",
+                "Hand weakness or clumsiness.",
+                "Slurred speech or trouble swallowing.",
+                "Weakness associated with muscle cramps and twitching in the arms, shoulders and tongue.",
+                "Untimely crying, laughing or yawning.",
+                "Thinking or behavioral changes."
+            ],
+            [
+                "Poor coordination",
+                "Walking unsteadily or with the feet set wide apart",
+                "Poor balance",
+                "Difficulty with fine motor tasks, such as eating, writing or buttoning a shirt",
+                "Change in speech",
+                "Involuntary back-and-forth eye movements (nystagmus)",
+                "Difficulty swallowing"
+            ],
+            [
+                "Rapid onset of mild weakness to total paralysis on one side of your face \u2014 occurring within hours to days",
+                "Facial droop and difficulty making facial expressions, such as closing your eye or smiling",
+                "Drooling",
+                "Pain around the jaw or in or behind your ear on the affected side",
+                "Increased sensitivity to sound on the affected side",
+                "Headache",
+                "A loss of taste",
+                "Changes in the amount of tears and saliva you produce"
+            ],
+            [
+                "Headaches, which may become more frequent and more severe",
+                "Feeling of increased pressure in the head",
+                "Unexplained nausea or vomiting",
+                "Abrupt onset of vision problems, such double vision"
+            ],
+            [
+                "Headache or pressure in the head that is worse in the morning.",
+                "Headaches that happen more often and seem more severe.",
+                "Headaches that are sometimes described as tension headaches or migraines.",
+                "Nausea or vomiting.",
+                "Eye problems, such as blurry vision, seeing double or losing sight on the sides of your vision.",
+                "Losing feeling or movement in an arm or a leg.",
+                "Trouble with balance.",
+                "Speech problems.",
+                "Feeling very tired.",
+                "Confusion in everyday matters.",
+                "Memory problems.",
+                "Having trouble following simple commands.",
+                "Personality or behavior changes.",
+                "Seizures, especially if there is no history of seizures.",
+                "Hearing problems.",
+                "Dizziness or a sense that the world is spinning, also called vertigo.",
+                "Feeling very hungry and gaining weight."
+            ],
+            [
+                "Headache, sometimes with vomiting or nausea",
+                "Mental changes, such as increasing memory problems",
+                "Seizures",
+                "Weakness or numbness on one side of the body"
+            ],
+            [
+                "Swelling or a lump under your skin",
+                "Pain, tingling or numbness",
+                "Weakness or loss of function in the affected area",
+                "Dizziness or loss of balance"
+            ],
+            [
+                "Headache, particularly one that hurts the most in the morning.",
+                "Nausea and vomiting.",
+                "Confusion or a decline in brain function, such as problems with thinking and understanding information.",
+                "Memory loss.",
+                "Personality changes or irritability.",
+                "Vision problems, such as blurred vision, double vision or loss of peripheral vision.",
+                "Speech difficulties.",
+                "Seizures, especially in someone who hasn't had seizures before."
+            ],
+            [
+                "Nausea and vomiting",
+                "Stiff neck",
+                "Blurred or double vision",
+                "Sensitivity to light",
+                "Seizure",
+                "A drooping eyelid",
+                "Loss of consciousness",
+                "Confusion"
+            ],
+            [
+                "Head and eye movement to one side",
+                "Complete or partial unresponsiveness or difficulty speaking",
+                "Explosive screams, including profanities, or laughter",
+                "Abnormal body posturing, such as one arm extending while the other flexes, as if the person is posing like a fencer",
+                "Repetitive movements, such as rocking, bicycle pedaling or pelvic thrusting"
+            ],
+            [
+                "Temporary confusion.",
+                "A staring spell.",
+                "Stiff muscles.",
+                "Uncontrollable jerking movements of the arms and legs.",
+                "Loss of consciousness or awareness.",
+                "Psychological symptoms such as fear, anxiety or deja vu."
+            ],
+            [
+                "Feeling that you have to use the drug regularly \u2014 daily or even several times a day",
+                "Having intense urges for the drug that block out any other thoughts",
+                "Over time, needing more of the drug to get the same effect",
+                "Taking larger amounts of the drug over a longer period of time than you intended",
+                "Making certain that you maintain a supply of the drug",
+                "Spending money on the drug, even though you can't afford it",
+                "Not meeting obligations and work responsibilities, or cutting back on social or recreational activities because of drug use",
+                "Continuing to use the drug, even though you know it's causing problems in your life or causing you physical or psychological harm",
+                "Doing things to get the drug that you normally wouldn't do, such as stealing",
+                "Driving or doing other risky activities when you're under the influence of the drug",
+                "Spending a good deal of time getting the drug, using the drug or recovering from the effects of the drug",
+                "Failing in your attempts to stop using the drug",
+                "Experiencing withdrawal symptoms when you attempt to stop taking the drug"
+            ],
+            [
+                "Impulsiveness",
+                "Disorganization and problems prioritizing",
+                "Poor time management skills",
+                "Problems focusing on a task",
+                "Trouble multitasking",
+                "Excessive activity or restlessness",
+                "Poor planning",
+                "Low frustration tolerance",
+                "Frequent mood swings",
+                "Problems following through and completing tasks",
+                "Hot temper",
+                "Trouble coping with stress"
+            ],
+            [
+                "Fails to respond to his or her name or appears not to hear you at times",
+                "Resists cuddling and holding, and seems to prefer playing alone, retreating into his or her own world",
+                "Has poor eye contact and lacks facial expression",
+                "Doesn't speak or has delayed speech, or loses previous ability to say words or sentences",
+                "Can't start a conversation or keep one going, or only starts one to make requests or label items",
+                "Speaks with an abnormal tone or rhythm and may use a singsong voice or robot-like speech",
+                "Repeats words or phrases verbatim, but doesn't understand how to use them",
+                "Doesn't appear to understand simple questions or directions",
+                "Doesn't express emotions or feelings and appears unaware of others' feelings",
+                "Doesn't point at or bring objects to share interest",
+                "Inappropriately approaches a social interaction by being passive, aggressive or disruptive",
+                "Has difficulty recognizing nonverbal cues, such as interpreting other people's facial expressions, body postures or tone of voice"
+            ],
+            [
+                "Bipolar I disorder.",
+                "Bipolar II disorder.",
+                "Cyclothymic disorder.",
+                "Other types."
+            ],
+            [
+                "An exaggerated feeling of happiness or well-being (euphoria)",
+                "Extreme optimism",
+                "Inflated self-esteem",
+                "Talking more than usual",
+                "Poor judgment that can result in risky behavior or unwise choices",
+                "Racing thoughts",
+                "Irritable or agitated behavior",
+                "Excessive physical activity",
+                "Increased drive to perform or achieve goals (sexual, work related or social)",
+                "Decreased need for sleep",
+                "Tendency to be easily distracted",
+                "Inability to concentrate"
+            ]
+        ]
+    },
+    {
+        "specialization": "Urologist",
+        "symptoms": [
+            [
+                "A strong urge to urinate that doesn't go away",
+                "A burning feeling when urinating",
+                "Urinating often, and passing small amounts of urine",
+                "Urine that looks cloudy",
+                "Urine that appears red, bright pink or cola-colored \u2014 signs of blood in the urine",
+                "Strong-smelling urine",
+                "Pelvic pain, in women \u2014 especially in the center of the pelvis and around the area of the pubic bone"
+            ],
+            [
+                "Blood in your urine, which may appear pink, red or cola colored",
+                "Pain in your back or side that doesn't go away",
+                "Loss of appetite",
+                "Unexplained weight loss",
+                "Tiredness",
+                "Fever"
+            ],
+            [
+                "Blood in urine",
+                "Back pain",
+                "Pain when urinating",
+                "Losing weight without trying",
+                "Fatigue"
+            ],
+            [
+                "A mass in the stomach area that can be felt.",
+                "Swelling in the stomach area.",
+                "Pain in the stomach area."
+            ],
+            [
+                "Trouble urinating",
+                "Decreased force in the stream of urine",
+                "Blood in the urine",
+                "Blood in the semen",
+                "Bone pain",
+                "Losing weight without trying",
+                "Erectile dysfunction"
+            ],
+            [
+                "Painful urination",
+                "Decreased force in the stream of urine",
+                "Blood in the semen",
+                "Bone pain",
+                "Swelling in the legs",
+                "Fatigue"
+            ],
+            [
+                "Trouble getting an erection",
+                "Trouble keeping an erection",
+                "Reduced sexual desire"
+            ],
+            [
+                "A strong urge to urinate that doesn't go away",
+                "A burning feeling when urinating",
+                "Urinating often, and passing small amounts of urine",
+                "Urine that looks cloudy",
+                "Urine that appears red, bright pink or cola-colored \u2014 signs of blood in the urine",
+                "Strong-smelling urine",
+                "Pelvic pain, in women \u2014 especially in the center of the pelvis and around the area of the pubic bone"
+            ],
+            [
+                "Fever",
+                "Chills",
+                "A burning feeling or pain when urinating",
+                "Having to urinate often",
+                "A strong, lasting urge to urinate",
+                "Back, side or groin pain",
+                "Nausea and vomiting",
+                "Pus or blood in the urine",
+                "Urine that smells bad or is cloudy",
+                "Belly pain"
+            ],
+            [
+                "A strong, persistent urge to urinate",
+                "A burning sensation when urinating",
+                "The need to pass small amounts of urine frequently",
+                "Cloudy urine",
+                "Fever",
+                "Pain in your side (flank) or abdomen"
+            ],
+            [
+                "Pain or burning sensation when urinating (dysuria)",
+                "Difficulty urinating, such as dribbling or hesitant urination",
+                "Frequent urination, particularly at night (nocturia)",
+                "Urgent need to urinate",
+                "Cloudy urine",
+                "Blood in the urine",
+                "Pain in the abdomen, groin or lower back",
+                "Pain in the area between the scrotum and rectum (perineum)",
+                "Pain or discomfort of the penis or testicles",
+                "Painful ejaculation",
+                "Fever, chills, muscle aches and other flu-like symptoms (with acute bacterial prostatitis)"
+            ],
+            [
+                "A lump or swelling in either testicle",
+                "A feeling of heaviness in the scrotum",
+                "A dull ache in the lower belly or groin",
+                "Sudden swelling in the scrotum",
+                "Pain or discomfort in a testicle or the scrotum",
+                "Enlargement or tenderness of the breast tissue",
+                "Back pain"
+            ]
+        ]
+    },
+    {
+        "specialization": "Ophthalmologist",
+        "symptoms": [
+            [
+                "Clouded, blurred or dim vision",
+                "Increasing difficulty with vision at night",
+                "Sensitivity to light and glare",
+                "Need for brighter light for reading and other activities",
+                "Seeing \"halos\" around lights",
+                "Frequent changes in eyeglass or contact lens prescription",
+                "Fading or yellowing of colors",
+                "Double vision in a single eye"
+            ],
+            [
+                "No symptoms in early stages",
+                "Gradually, patchy blind spots in your side vision. Side vision also is known as peripheral vision",
+                "In later stages, difficulty seeing things in your central vision"
+            ],
+            [
+                "Visual distortions, such as straight lines seeming bent.",
+                "Reduced central vision in one or both eyes.",
+                "The need for brighter light when reading or doing close-up work.",
+                "Increased difficulty adapting to low light levels, such as when entering a dimly lit restaurant or theater.",
+                "Increased blurriness of printed words.",
+                "Difficulty recognizing faces.",
+                "A well-defined blurry spot or blind spot in the field of vision."
+            ],
+            [
+                "Visual distortions, such as straight lines seeming bent.",
+                "Reduced central vision in one or both eyes.",
+                "The need for brighter light when reading or doing close-up work.",
+                "Difficulty adjusting to low light levels, such as when entering a dimly lit restaurant or theater.",
+                "Increased blurriness of printed words.",
+                "Difficulty recognizing faces.",
+                "A well-defined blurry spot or blind spot in the field of vision."
+            ]
+        ]
+    },
+    {
+        "specialization": "Diabetologist",
+        "symptoms": [
+            [
+                "Feeling more thirsty than usual.",
+                "Urinating often.",
+                "Losing weight without trying.",
+                "Presence of ketones in the urine. Ketones are a byproduct of the breakdown of muscle and fat that happens when there's not enough available insulin.",
+                "Feeling tired and weak.",
+                "Feeling irritable or having other mood changes.",
+                "Having blurry vision.",
+                "Having slow-healing sores.",
+                "Getting a lot of infections, such as gum, skin and vaginal infections."
+            ],
+            [
+                "Increased thirst.",
+                "Frequent urination.",
+                "Increased hunger.",
+                "Unintended weight loss.",
+                "Fatigue.",
+                "Blurred vision.",
+                "Slow-healing sores.",
+                "Frequent infections.",
+                "Numbness or tingling in the hands or feet.",
+                "Areas of darkened skin, usually in the armpits and neck."
+            ],
+            [
+                "Increased thirst",
+                "Frequent urination, possibly bed-wetting in a toilet-trained child",
+                "Extreme hunger",
+                "Unintentional weight loss",
+                "Fatigue",
+                "Irritability or behavior changes",
+                "Fruity-smelling breath"
+            ],
+            [
+                "Feeling more thirsty than usual",
+                "Urinating a lot",
+                "Bed-wetting in children who have never wet the bed during the night",
+                "Feeling very hungry",
+                "Losing weight without trying",
+                "Feeling irritable or having other mood changes",
+                "Feeling tired and weak",
+                "Having blurry vision"
+            ],
+            [
+                "Increased thirst",
+                "Frequent urination",
+                "Increased hunger",
+                "Fatigue",
+                "Blurry vision",
+                "Darkened areas of skin, most often around the neck or in the armpits and groin",
+                "Unintended weight loss, although this is less common in children with type 2 diabetes than in children with type 1 diabetes",
+                "Frequent infections"
+            ],
+            [
+                "Being very thirsty, often with a preference for cold water.",
+                "Making large amounts of pale urine.",
+                "Getting up to urinate and drink water often during the night."
+            ],
+            [
+                "Worsening blood pressure control",
+                "Protein in the urine",
+                "Swelling of feet, ankles, hands or eyes",
+                "Increased need to urinate",
+                "Reduced need for insulin or diabetes medicine",
+                "Confusion or difficulty concentrating",
+                "Shortness of breath",
+                "Loss of appetite",
+                "Nausea and vomiting",
+                "Persistent itching",
+                "Fatigue"
+            ]
+        ]
+    }
+]
